@@ -1,0 +1,7 @@
+#Mon May 01 18:12:46 PDT 2017
+base.0=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f76c0fdf90ae038cf081b86432ad34ebcfcf575
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1ff14dab433fb7582c511f9e41c3d015ff45385\\classes.dex
+base.1=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1ff14dab433fb7582c511f9e41c3d015ff45385
+file.0=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f76c0fdf90ae038cf081b86432ad34ebcfcf575\\classes.dex

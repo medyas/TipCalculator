@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon May 01 18:12:46 PDT 2017
+2.base=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f76c0fdf90ae038cf081b86432ad34ebcfcf575
+6.file=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1ff14dab433fb7582c511f9e41c3d015ff45385
+7.file=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_tip_calculator.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+5.base=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=DEX
+6.base=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_tip_calculator.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_tip_calculator.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f76c0fdf90ae038cf081b86432ad34ebcfcf575\\classes.dex
+3.set=DEX
+1.base=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Courses\\itc 162\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1ff14dab433fb7582c511f9e41c3d015ff45385\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
